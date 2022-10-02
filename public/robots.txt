@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://centruet.github.io/sitemap.xml
